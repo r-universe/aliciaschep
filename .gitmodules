@@ -1,5 +1,15 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/aliciaschep/universe
 	shallow = true
 	branch = HEAD
+[submodule "vegabrite"]
+	path = vegabrite
+	url = https://github.com/vegawidget/vegabrite
+	shallow = true
+	registered = true
+[submodule "gglabeller"]
+	path = gglabeller
+	url = https://github.com/AliciaSchep/gglabeller
+	shallow = true
+	registered = true
