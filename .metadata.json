@@ -4,5 +4,15 @@
   },
   {
     "package": "gglabeller"
+  },
+  {
+    "package": "chromVAR"
+  },
+  {
+    "package": "motifmatchr"
+  },
+  {
+    "package": "iheatmapr",
+    "oncran": true
   }
 ]

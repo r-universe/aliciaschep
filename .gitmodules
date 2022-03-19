@@ -13,3 +13,18 @@
 	url = https://github.com/AliciaSchep/gglabeller
 	shallow = true
 	registered = true
+[submodule "chromVAR"]
+	path = chromVAR
+	url = https://github.com/GreenleafLab/chromVAR
+	shallow = true
+	registered = true
+[submodule "motifmatchr"]
+	path = motifmatchr
+	url = https://github.com/GreenleafLab/motifmatchr
+	shallow = true
+	registered = true
+[submodule "iheatmapr"]
+	path = iheatmapr
+	url = https://github.com/ropensci/iheatmapr
+	shallow = true
+	registered = true
